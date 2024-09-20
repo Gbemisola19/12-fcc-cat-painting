@@ -1,6 +1,6 @@
 # FCC Cat Painting
 
-> This is a project about basic HTML and CSS elements
+> This is a project about learning intermediate CSS.
 
 ![cat painting](app_screenshot.png)
 
